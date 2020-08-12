@@ -7,7 +7,7 @@ package Cadenas;
 
 /**
  *
- * @author vagrant
+ * @author agimez
  */
 public class Buscar_Cadena {
 
