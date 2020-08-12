@@ -7,7 +7,8 @@ package Cadenas;
 
 /**
  *
- * @author agimez
+ * @author agimenez
+ * @version demo
  */
 public class Buscar_Cadena {
 
