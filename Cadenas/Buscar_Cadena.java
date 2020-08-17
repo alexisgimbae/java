@@ -12,7 +12,7 @@ package Cadenas;
  */
 public class Buscar_Cadena {
 
-    public static String filtro_cadena = "name";
+    public static final String filtro_cadena = "name";
     public String cadena;
     public int resultado;
 
