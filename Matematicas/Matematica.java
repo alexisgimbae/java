@@ -21,7 +21,7 @@ public class Matematica {
     }
 
     public int maxNumber() {
-        this.resultado = Math.max(numero1, numero1);
+        this.resultado = Math.max(numero1, numero2);
         return resultado;
     }
 
